@@ -1,0 +1,12 @@
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.deps.json
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.dll
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.pdb
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.csproj.AssemblyReference.cache
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.AssemblyInfoInputs.cache
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.AssemblyInfo.cs
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.csproj.CoreCompileInputs.cache
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.dll
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\refint\RockPapperScissors.dll
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.pdb
+C:\Users\cuent\Documents\proyecto\RockPapperScissors\obj\Debug\net6.0\ref\RockPapperScissors.dll
